@@ -65,3 +65,17 @@ rather than being numbered sequentially through the document.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 20090926-2
++ Revision: 752051
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 20090926-1
++ Revision: 718491
+- texlive-footnpag
+- texlive-footnpag
+- texlive-footnpag
+- texlive-footnpag
+
