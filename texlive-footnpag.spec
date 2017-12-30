@@ -5,8 +5,8 @@
 # catalog-license gpl
 # catalog-version undef
 Name:		texlive-footnpag
-Version:	20090926
-Release:	10
+Version:	20170414
+Release:	1
 Summary:	Per-page numbering of footnotes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/footnpag
