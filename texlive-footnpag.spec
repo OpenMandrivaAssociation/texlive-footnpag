@@ -5,7 +5,7 @@
 # catalog-license gpl
 # catalog-version undef
 Name:		texlive-footnpag
-Version:	20170414
+Version:	20180303
 Release:	1
 Summary:	Per-page numbering of footnotes
 Group:		Publishing
