@@ -1,6 +1,6 @@
 Name:		texlive-footnpag
 Version:	15878
-Release:	1
+Release:	2
 Summary:	Per-page numbering of footnotes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/footnpag
